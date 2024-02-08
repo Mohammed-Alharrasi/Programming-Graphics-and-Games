@@ -1,6 +1,3 @@
-# Programming Graphics and Games
-Explore the dynamic world of graphics and games in my repository. Each link opens a gateway to visual spectacles, a testament to innovation in graphics and game programming. Dive into the showcase—where artistry meets innovation.
-
 # Graphics and Games Showcase
 
 Welcome to the Graphics and Games Showcase, a compilation of immersive projects showcasing the creative and technical prowess in the realm of graphics and games. Each link below leads to a unique visual experience, demonstrating the use of TypeScript and GopherGfx for cutting-edge programming.
@@ -31,4 +28,4 @@ Welcome to the Graphics and Games Showcase, a compilation of immersive projects 
 - Perform 3D mesh editing operations in response to user input.
 - Implement screen-to-world transformations and advanced graphics algorithms.
 
-Feel free to explore these projects and witness the fusion of art and technology in the exciting field of graphics and game programming. Happy coding! 🚀🎮
+Feel free to explore these projects and witness the fusion of art and technology in the exciting field of graphics and game programming.
